@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomIOCContainer", "CustomIOCContainer\CustomIOCContainer.csproj", "{301EFB2A-C7FF-4AD9-ACEA-4A1AC35BCBCF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOCContainer", "IOCContainer\IOCContainer.csproj", "{E23AA111-8C1E-426D-BF66-29ADBAB0BA1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{301EFB2A-C7FF-4AD9-ACEA-4A1AC35BCBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{301EFB2A-C7FF-4AD9-ACEA-4A1AC35BCBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{301EFB2A-C7FF-4AD9-ACEA-4A1AC35BCBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{301EFB2A-C7FF-4AD9-ACEA-4A1AC35BCBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E23AA111-8C1E-426D-BF66-29ADBAB0BA1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E23AA111-8C1E-426D-BF66-29ADBAB0BA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E23AA111-8C1E-426D-BF66-29ADBAB0BA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E23AA111-8C1E-426D-BF66-29ADBAB0BA1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
